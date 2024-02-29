@@ -3,7 +3,7 @@
 ## Instructions to use git and github to upload your personal documents and exercises into the AVCAD Course repository
 
 ---
-The AVCAD Course repository is located here: https://github.com/isa-ulisboa/greends-avcd
+The AVCAD Course repository is located here: https://github.com/isa-ulisboa/greends-avcad-2024
 
 
 ### Step 1 - Fork a copy of the repository into your personal page
