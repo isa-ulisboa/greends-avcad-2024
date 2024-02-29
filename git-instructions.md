@@ -10,6 +10,8 @@ The AVCAD Course repository is located here: https://github.com/isa-ulisboa/gree
 
 There is no git fork command, so this step must be done in github. Go to the github repositoy that you intend to fork and simply use the button at the top right of the screen, and click on the green button "create fork".
 
+In your new personal branch, you will need first to create a sub-folder with your name in the existing "people" folder using the button "add file" located in the right side of github and writing your name followed by a bar ("yourname"/), then you will need to create a new empty file (e.g. readme) otherwise it is not possible to create a sub-folder. After that you may upload your exercises to that sub-folder using git commands or vscode and then do a pull request in github ("open pull request" and then "create pull request").
+
 
 ### Step 2 - Clone the repository to you local machine
 
@@ -50,7 +52,7 @@ $ git push origin main
 
 ### Step 6 - Make a pull request to the original repository
 
-In github click on "pull request" -> "new pull request"
+In github click on "open pull request" -> "create pull request".
 
 ---
 ### Return to step 3 whenever a change has been made into the original repository.
